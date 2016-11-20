@@ -2,7 +2,7 @@
 layout: post
 title: Implementasi Polymorphic Inheritance di SQLAlchemy Model (Join Table)
 ---
-Pada implementasi database terkadang diperlukan sebuah model yang merupakan keturunan table lain contoh table `users` yang memiliki keturunan table `employee` dan table `client`, maka dalam implementasinya bisa dengan membuat struktur:
+Pada implementasi database terkadang diperlukan sebuah tabel yang merupakan keturunan table lain contoh table `users` yang memiliki keturunan table `employee` dan table `client`, maka dalam implementasinya bisa dengan membuat struktur:
 
 table `users`
 
