@@ -22,21 +22,24 @@ Some information about me!
 July 2015 - Present,  Yogyakarta
 Have responsibility create and maintenance webservice used by sebangsa.com and another project. Make sure webservice can handle a lot of request simultaneously and scale horisontal or vertical.
 
-### Amikom Surakata / Databases Lecturer's assistant
-July 2013 - May 2015,  Surakarta
-Help lecturer teach database courses using relational databases management system with MS SQL dan MySQL.
-
 ## Education
 
 ### Universitas Mercubuana Yogyakarta / S1 
-2015 - Present,  Yogyakarta
+2015 - 2018,  Yogyakarta
 Bachelor of Information Systems
 
 ### Amikom / D3 
 2012 - 2015,  Surakarta
 Diploma in computerized accounting.
 
-## Additional
+## Talks
+
 ### Flask SQLAlchemy Workshop  as Speaker
-8 - 9 Juni 2017,  PT Sebangsa Yogyakarta
-Speaker in flask sqlalchemy workshop for 2 days. Related url http://bit.ly/2vN05LB, material url https://github.com/faisalburhanudin/py89
+8 - 9 Juni 2017
+flask sqlalchemy workshop for 2 days. 
+- [material](https://github.com/faisalburhanudin/py89)
+
+### Workshop Image Search and Image Classification
+24 Februari 2018
+Talks about Convolutional Neural Network for Image Classification.
+- [certificate](https://drive.google.com/file/d/1meUgew2-WELkBsX-BpMs8w5KIuodQ6hk/view?usp=sharing)
